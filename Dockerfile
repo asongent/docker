@@ -1,5 +1,5 @@
 # use a node base image
-FROM Ubuntu:latest
+FROM ubuntu:18.04
 
 # set maintainer
 LABEL maintainer "asongentle@gmail.com"
