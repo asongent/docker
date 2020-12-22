@@ -1,5 +1,5 @@
 # use a node base image
-FROM postgres:9.04
+FROM ubuntu:20.04
 
 # set maintainer
 LABEL maintainer "asongentle@gmail.com"
